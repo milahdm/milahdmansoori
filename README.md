@@ -14,8 +14,8 @@ I enjoy learning new technologies and building software solutions that solve rea
 ## Projects
 Here’s a categorized showcase of my projects:
 
-## C Projects
-A collection of C programming projects, showcasing my proficiency in C programming, including:
+    ## C Projects
+    A collection of C programming projects, showcasing my proficiency in C programming, including:
     - **Calculus Helper**: A program for evaluating calculus problems and assisting with differentiation and integration.
     - **Hangman Game**: A two-player hangman game featuring dynamic word inputs and scoring.
     - **Library Management System**: A comprehensive program to add, remove, update, and manage books in a library.
