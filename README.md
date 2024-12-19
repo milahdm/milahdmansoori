@@ -22,5 +22,5 @@ Here’s a categorized showcase of my projects:
     - **Number Guessing Game**: A fun game where players guess a randomly generated number with hints.
     - **File Manipulation Program**: A tool for searching and replacing specific words in files.
 
-[Explore C Projects Here](https://github.com/milahdm/CProjects)
+    [Explore C Projects Here](https://github.com/milahdm/CProjects)
 
