@@ -37,50 +37,12 @@ Here’s a categorized showcase of my projects:
 
 
 ## Java Projects: Data Structures
-
-This section highlights my projects that explore core data structures and algorithms in Java. These projects showcase my ability to implement efficient solutions using key programming concepts such as recursion, dynamic programming, breadth-first search (BFS), and sorting techniques. Each project has been carefully designed and optimized for performance and clarity.
-
-### Projects:
-
-#### 1. Binary Tree
-    - **Description:** Implementation of a binary tree with in-order traversal, iterators, and node manipulation methods. Demonstrates efficient tree-based operations.
-    - **Key Features:**
-      - Builds trees from an array in in-order format.
-      - Supports iterators for traversal.
-      - Includes parent and child node management.
-    - **Complexity:** Efficient traversal and construction with `O(log n)` complexity in many operations.
-
-#### 2. Binomial Queue
-    - **Description:** Implementation of a priority queue using binomial heaps, showcasing tree-based data structure design.
-    - **Key Features:**
-      - Supports `push` and `pop` operations.
-      - Maintains the heap property using efficient linking.
-      - Implements merge and insert methods for optimized performance.
-    - **Complexity:** Efficient operations with logarithmic time complexity.
-
-#### 3. DNA Alignment
-    - **Description:** A sequence alignment tool for comparing DNA strands using dynamic programming techniques.
-    - **Key Features:**
-      - Implements Smith-Waterman and Needleman-Wunsch algorithms.
-      - Provides scoring for matches, mismatches, and gaps.
-      - GUI integration for user interaction.
-    - **Complexity:** Utilizes `O(m * n)` space and time complexity for alignment.
-
-#### 4. Quicksort
-    - **Description:** A quicksort algorithm implementation with array and linked list support.
-    - **Key Features:**
-      - Sorts data using the divide-and-conquer approach.
-      - Includes recursive and iterative implementations.
-      - Supports flexible input types (arrays, linked lists).
-    - **Complexity:** Average-case `O(n log n)` complexity.
-
-#### 5. Routing Wires
-    - **Description:** A pathfinding tool to route wires on a board, avoiding obstacles and ensuring optimal paths.
-    - **Key Features:**
-      - Implements BFS for shortest pathfinding.
-      - Handles backtracking to resolve conflicts.
-      - Includes comprehensive testing for various scenarios.
-    - **Complexity:** Pathfinding optimized with `O(n * (E + V))` complexity.
+    A collection of Java projects that explore core data structures and algorithms, showcasing my ability to implement efficient solutions and design robust programs, including:
+    - **Binary Tree**: Implementation of a binary tree with in-order traversal and iterators for efficient node management.
+    - **Binomial Queue**: A priority queue based on binomial heaps, demonstrating efficient tree-based data structure design.
+    - **DNA Alignment**: A sequence alignment tool leveraging dynamic programming to compare DNA strands.
+    - **Quicksort**: A sorting algorithm implementation with support for arrays and linked lists.
+    - **Routing Wires**: A pathfinding solution using BFS to route wires on a board while avoiding obstacles.
 
 [Explore Java Projects Here](https://github.com/milahdm/JavaProjects)
 
