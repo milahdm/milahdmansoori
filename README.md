@@ -36,7 +36,7 @@ Here’s a categorized showcase of my projects:
 [Explore Mobile Apps Here](https://github.com/milahdm/MobileAppDevelopment)
 
 
-## Java Projects: Data Structures
+## Java Projects
     A collection of Java projects that explore core data structures and algorithms, showcasing my ability to implement efficient solutions and design robust programs, including:
     - **Binary Tree**: Implementation of a binary tree with in-order traversal and iterators for efficient node management.
     - **Binomial Queue**: A priority queue based on binomial heaps, demonstrating efficient tree-based data structure design.
