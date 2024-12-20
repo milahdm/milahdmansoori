@@ -25,7 +25,7 @@ Here’s a categorized showcase of my projects:
 [Explore C Projects Here](https://github.com/milahdm/CProjects)
 
 
-    ## Mobile App Development Projects
+## Mobile App Development Projects
     A collection of mobile app development projects, showcasing my skills in Android development, Kotlin programming, and teamwork, including:
     - **Calculator App**: A sleek calculator app built with Compose UI that supports basic arithmetic operations and ensures proper layout behavior on device rotation.
     - **Calorie Counter**: A health app that tracks meals, snacks, and water consumption, with data persistence across app         restarts and a responsive UI.
