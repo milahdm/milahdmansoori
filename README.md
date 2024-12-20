@@ -42,7 +42,7 @@ This section highlights my projects that explore core data structures and algori
 
 ### Projects:
 
-    #### 1. Binary Tree
+#### 1. Binary Tree
     - **Description:** Implementation of a binary tree with in-order traversal, iterators, and node manipulation methods. Demonstrates efficient tree-based operations.
     - **Key Features:**
   - Builds trees from an array in in-order format.
@@ -50,7 +50,7 @@ This section highlights my projects that explore core data structures and algori
   - Includes parent and child node management.
     - **Complexity:** Efficient traversal and construction with `O(log n)` complexity in many operations.
 
-    #### 2. Binomial Queue
+#### 2. Binomial Queue
     - **Description:** Implementation of a priority queue using binomial heaps, showcasing tree-based data structure design.
     - **Key Features:**
       - Supports `push` and `pop` operations.
