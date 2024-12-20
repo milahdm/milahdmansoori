@@ -28,7 +28,7 @@ Here’s a categorized showcase of my projects:
 ## Mobile App Development Projects
     A collection of mobile app development projects, showcasing my skills in Android development, Kotlin programming, and teamwork, including:
     - **Calculator App**: A sleek calculator app built with Compose UI that supports basic arithmetic operations and ensures proper layout behavior on device rotation.
-    - **Calorie Counter**: A health app that tracks meals, snacks, and water consumption, with data persistence across app         restarts and a responsive UI.
+    - **Calorie Counter**: A health app that tracks meals, snacks, and water consumption, with data persistence across app   restarts and a responsive UI.
     - **Pizza Menu**: A customizable pizza ordering app using checkboxes for toppings and sauces, complete with real-time price calculation and a user-friendly interface.
     - **Sports News App**: A dynamic news app fetching sports-related articles using the News API, displayed in a RecyclerView with proper caching and efficient network calls.
     - **To-Do List**: A task management app integrated with Firebase for storing tasks, allowing users to add, view, and delete tasks seamlessly.
