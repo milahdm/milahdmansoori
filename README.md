@@ -47,11 +47,10 @@ Here’s a categorized showcase of my projects:
 [Explore Java Projects Here](https://github.com/milahdm/JavaProjects)
 
 ## Game Development
-
-A collection of game development projects showcasing my skills in Unity, game mechanics, and animation, including:
-- **2D Shooter**: A fast-paced 2D spaceship shooter game featuring power-ups, enemies, and responsive controls. Dive into an arcade-style experience with smooth animations and gameplay.
-- **3D Pool**: A realistic 3D pool game with accurate physics and immersive graphics. This project showcases my understanding of Unity's 3D environment and physics engine.
-- **Sword of the Abyss** *(Work in Progress)*: A platformer game that combines combat mechanics with spawning enemies. Features include advanced character animations, enemy AI, and jumping/attacking systems.
+    A collection of game development projects showcasing my skills in Unity, game mechanics, and animation, including:
+    - **2D Shooter**: A fast-paced 2D spaceship shooter game featuring power-ups, enemies, and responsive controls. Dive into an arcade-style experience with smooth animations and gameplay.
+    - **3D Pool**: A realistic 3D pool game with accurate physics and immersive graphics. This project showcases my understanding of Unity's 3D environment and physics engine.
+    - **Sword of the Abyss** *(Work in Progress)*: A platformer game that combines combat mechanics with spawning enemies. Features include advanced character animations, enemy AI, and jumping/attacking systems.
 
 [Explore Game Development Projects Here](https://github.com/milahdm/GameDevelopment).
 
